@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
                     contentAlignment = Alignment.Center
                 ){
                     Text(" hello ")
+                    Text(" hello ")
+                    Text(" hello ")
                 }
             }
         }
