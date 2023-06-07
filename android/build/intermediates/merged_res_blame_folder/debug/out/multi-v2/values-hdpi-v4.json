@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.lissene_kids.app.android-mergeDebugResources-57:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/takiacademy/.gradle/caches/transforms-3/d645371134caf5d1c61de5756b2f1793/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

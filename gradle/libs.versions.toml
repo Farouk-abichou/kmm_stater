@@ -1,0 +1,69 @@
+[versions]
+
+kotlin = "1.8.20"
+agp = "7.4.1"
+compose = "1.4.0"
+compose-compiler = "1.4.5"
+androidx-appcompat = "1.6.1"
+androidx-activityCompose = "1.7.0"
+androidx-constraintLayout = "2.1.4"
+compose-material = "1.5.0-alpha04"
+compose-material3 = "1.2.0-alpha01"
+compose-uitooling = "1.4.1"
+napier = "2.6.1"
+buildConfig = "3.1.0"
+kotlinx-coroutines = "1.6.4"
+ktor = "2.3.0"
+kotlinx-serialization = "1.5.1"
+kotlinx-datetime = "0.4.0"
+multiplatformSettings = "1.0.0"
+koin = "3.4.0"
+sqlDelight = "2.0.0-alpha05"
+detekt = "1.22.0"
+coil = "2.3.0"
+
+[libraries]
+
+androidx-appcompat = { module = "androidx.appcompat:appcompat", version.ref = "androidx-appcompat" }
+androidx-activityCompose = { module = "androidx.activity:activity-compose", version.ref = "androidx-activityCompose" }
+androidx-constraintLayout = { module = "androidx.constraintlayout:constraintlayout", version.ref = "androidx-constraintLayout" }
+compose-material = { module = "androidx.compose.material:material", version.ref = "compose-material" }
+compose-material3 = { module = "androidx.compose.material3:material3", version.ref = "compose-material3" }
+compose-uitooling = { module = "androidx.compose.ui:ui-tooling", version.ref = "compose-uitooling" }
+napier = { module = "io.github.aakira:napier", version.ref = "napier" }
+kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "kotlinx-coroutines" }
+kotlinx-coroutines-android = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-android", version.ref = "kotlinx-coroutines" }
+kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "kotlinx-serialization" }
+kotlinx-datetime = { module = "org.jetbrains.kotlinx:kotlinx-datetime", version.ref = "kotlinx-datetime" }
+multiplatformSettings = { module = "com.russhwolf:multiplatform-settings", version.ref = "multiplatformSettings" }
+multiplatformSettings-no-arg = { module = "com.russhwolf:multiplatform-settings-no-arg", version.ref = "multiplatformSettings" }
+multiplatformSettings-datastore = { module = "com.russhwolf:multiplatform-settings-datastore", version.ref = "multiplatformSettings" }
+sqlDelight-driver-sqlite = { module = "app.cash.sqldelight:sqlite-driver", version.ref = "sqlDelight" }
+sqlDelight-driver-android = { module = "app.cash.sqldelight:android-driver", version.ref = "sqlDelight" }
+sqlDelight-driver-native = { module = "app.cash.sqldelight:native-driver", version.ref = "sqlDelight" }
+sqlDelight-driver-sqljs = { module = "app.cash.sqldelight:sqljs-driver", version.ref = "sqlDelight" }
+koin-core = { module = "io.insert-koin:koin-core", version.ref = "koin" }
+detekt_formatting = { module = "io.gitlab.arturbosch.detekt:detekt-formatting", version.ref = "detekt" }
+coil-compose = { module = "io.coil-kt:coil-compose", version.ref = "coil" }
+ktor-core = { module = "io.ktor:ktor-client-core", version.ref = "ktor" }
+ktor-client-darwin = { module = "io.ktor:ktor-client-darwin", version.ref = "ktor" }
+ktor-client-okhttp = { module = "io.ktor:ktor-client-okhttp", version.ref = "ktor" }
+ktor-cio = { module = "io.ktor:ktor-client-cio", version.ref = "ktor"  }
+ktor-auth = { module = "io.ktor:ktor-client-auth", version.ref = "ktor"  }
+ktor-serialization = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "ktor"  }
+ktor-serialization-json = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "ktor"  }
+ktora-android = { module = "io.ktor:ktor-client-android", version.ref = "ktor"  }
+ktor-IOS = { module = "io.ktor:ktor-client-ios", version.ref = "ktor"  }
+ktor-client-android = { module = "io.ktor:ktor-client-android", version.ref = "ktor"  }
+
+[plugins]
+
+multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+cocoapods = { id = "org.jetbrains.kotlin.native.cocoapods", version.ref = "kotlin" }
+compose = { id = "org.jetbrains.compose", version.ref = "compose" }
+android-application = { id = "com.android.application", version.ref = "agp" }
+android-library = { id = "com.android.library", version.ref = "agp" }
+buildConfig = { id = "com.github.gmazzo.buildconfig", version.ref = "buildConfig" }
+kotlinx-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
+sqlDelight = { id = "app.cash.sqldelight", version.ref = "sqlDelight" }
+detekt = { id = "io.gitlab.arturbosch.detekt", version.ref = "detekt" }

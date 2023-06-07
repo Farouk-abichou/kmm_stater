@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agency_photo" translatable="false">Photo de l’agence</string>
+    <string name="already_have_an_account" translatable="false">Vous avez déjà un compte?</string>
+    <string name="app_name" translatable="false">lissene_kids</string>
+    <string name="create_my_account" translatable="false">Je crée mon compte</string>
+    <string name="create_your_account" translatable="false">Créer votre compte</string>
+    <string name="dont_have_an_account" translatable="false">Vous avez pas de compte ? </string>
+    <string name="email" translatable="false">E-mail</string>
+    <string name="email_or_phone_number" translatable="false">Email ou numéro de téléphone</string>
+    <string name="enter_your_password" translatable="false">Entrer votre mot de passe</string>
+    <string name="example_email" translatable="false">example@gmail.com</string>
+    <string name="first_name" translatable="false">Nom</string>
+    <string name="forgot_password" translatable="false">Mot de passe oublier</string>
+    <string name="home" translatable="false">Home</string>
+    <string name="i_connect" translatable="false">Je me connecte</string>
+    <string name="last_name" translatable="false">Prenom</string>
+    <string name="long_version" translatable="false">Version Longue</string>
+    <string name="lorem_ipsum" translatable="false">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard</string>
+    <string name="password" translatable="false">Mot de passe</string>
+    <string name="phone_number" translatable="false">Numéro de téléphone</string>
+    <string name="profile" translatable="false">Profile</string>
+    <string name="profile_picture" translatable="false">Photo de profil</string>
+    <string name="remember_me" translatable="false">Se souvenir de moi</string>
+    <string name="select" translatable="false">Sélectionner</string>
+    <string name="set_video_speed" translatable="false">Definir la vitesse du video</string>
+    <string name="share_your_real_estate_properties_in_video" translatable="false">partager vos biens immobilier en vidéo</string>
+    <string name="short_version" translatable="false">Version Courte</string>
+    <string name="sign_in" translatable="false">Se connecter</string>
+    <string name="sign_up_now_and_start" translatable="false">Inscrivez-vous maintenant et commencer à</string>
+    <string name="thank_you_for_choosing_your_video_speed." translatable="false">Merci de choisir votre vitesse vidéo.</string>
+    <string name="the_speed_will_be_adopted_for_the_entire_video" translatable="false">La vitesse sera adopté pour toute la video</string>
+</resources>
