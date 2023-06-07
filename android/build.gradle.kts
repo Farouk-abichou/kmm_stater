@@ -40,6 +40,10 @@ android {
         implementation(libs.compose.material3)
         implementation(libs.compose.uitooling)
         implementation(libs.kotlinx.coroutines.android)
+        implementation("androidx.activity:activity-compose:1.7.2")
+
+        // ViewModel
+        implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
 
         //Coil
         implementation(libs.coil.compose)
@@ -48,19 +52,15 @@ android {
         // ConstraintLayout
         implementation(libs.androidx.constraintLayout)
 
-        // EXIF Interface
-        implementation("androidx.exifinterface:exifinterface:1.3.6")
 
         // Accompanist Permissions
         implementation("com.google.accompanist:accompanist-permissions:0.31.2-alpha")
 
-        // ExoPlayer
-        implementation("androidx.media3:media3-exoplayer:1.1.0-alpha01")
-        implementation("androidx.media3:media3-ui:1.1.0-alpha01")
 
-        // Transformer
-        implementation("androidx.media3:media3-transformer:1.1.0-alpha01")
-        implementation("androidx.media3:media3-effect:1.1.0-alpha01")
-        implementation("androidx.media3:media3-common:1.1.0-alpha01")
+
+        implementation(libs.koin.core)
+        implementation("androidx.navigation:navigation-compose:2.5.3")
+
+        implementation ("io.insert-koin:koin-androidx-compose:3.4.0")
     }
 }

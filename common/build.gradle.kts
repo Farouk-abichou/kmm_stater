@@ -50,10 +50,11 @@ kotlin {
 
                 // Ktor
                 implementation(libs.ktor.core)
-                implementation(libs.ktor.cio)
-                implementation(libs.ktor.auth)
-                implementation(libs.ktor.serialization)
+                implementation(libs.ktor.content.negotiation)
                 implementation(libs.ktor.serialization.json)
+                implementation(libs.ktor.logging)
+                implementation(libs.ktor.client.auth)
+                implementation(libs.logback.classic)
 
                 // Multiplatform Settings
                 implementation(libs.multiplatformSettings)
@@ -93,7 +94,7 @@ kotlin {
             iosSimulatorArm64Main.dependsOn(this)
             dependencies {
                 // Ktor
-//                implementation(libs.ktor.client.darwin)
+                implementation(libs.ktor.client.darwin)
 
                 // SQLDelight
                 implementation(libs.sqlDelight.driver.native)
