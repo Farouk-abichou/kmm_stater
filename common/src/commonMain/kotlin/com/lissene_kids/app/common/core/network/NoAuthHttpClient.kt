@@ -1,6 +1,6 @@
 package com.lissene_kids.app.common.core.network
 
-import com.lissene_kids.app.common.auth.data.util.BaseUrl
+import com.lissene_kids.app.common.core.network.util.BaseUrl
 import io.ktor.client.*
 import io.ktor.client.plugins.*
 import io.ktor.client.plugins.contentnegotiation.*

@@ -40,27 +40,23 @@ android {
         implementation(libs.compose.material3)
         implementation(libs.compose.uitooling)
         implementation(libs.kotlinx.coroutines.android)
-        implementation("androidx.activity:activity-compose:1.7.2")
+        implementation(libs.compose.lifecycle)
+        implementation(libs.compose.util)
+        implementation(libs.compose.navigation)
+        implementation(libs.compose.navigation)
 
-        // ViewModel
-        implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
+        // Koin
+        implementation(libs.koin.core)
+        implementation(libs.koin.androidx.compose)
 
         //Coil
         implementation(libs.coil.compose)
-        implementation("androidx.compose.ui:ui-util:1.4.3")
 
         // ConstraintLayout
         implementation(libs.androidx.constraintLayout)
 
-
         // Accompanist Permissions
-        implementation("com.google.accompanist:accompanist-permissions:0.31.2-alpha")
+        implementation(libs.accompanist.permissions)
 
-
-
-        implementation(libs.koin.core)
-        implementation("androidx.navigation:navigation-compose:2.5.3")
-
-        implementation ("io.insert-koin:koin-androidx-compose:3.4.0")
     }
 }

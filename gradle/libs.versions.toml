@@ -4,8 +4,11 @@ kotlin = "1.8.20"
 agp = "7.4.1"
 compose = "1.4.0"
 compose-compiler = "1.4.5"
+compose-navigation = "2.5.3"
+compose-lifecycle = "2.6.1"
+compose-util = "1.4.3"
 androidx-appcompat = "1.6.1"
-androidx-activityCompose = "1.7.0"
+androidx-activityCompose = "1.7.2"
 androidx-constraintLayout = "2.1.4"
 compose-material = "1.5.0-alpha04"
 compose-material3 = "1.2.0-alpha01"
@@ -21,6 +24,7 @@ koin = "3.4.0"
 sqlDelight = "2.0.0-alpha05"
 detekt = "1.22.0"
 coil = "2.3.0"
+accompanist-permissions = "0.31.2-alpha"
 
 logbackClassic = "1.2.3"
 
@@ -32,6 +36,9 @@ androidx-constraintLayout = { module = "androidx.constraintlayout:constraintlayo
 compose-material = { module = "androidx.compose.material:material", version.ref = "compose-material" }
 compose-material3 = { module = "androidx.compose.material3:material3", version.ref = "compose-material3" }
 compose-uitooling = { module = "androidx.compose.ui:ui-tooling", version.ref = "compose-uitooling" }
+compose-navigation = { module = "androidx.navigation:navigation-compose", version.ref = "compose-navigation" }
+compose-lifecycle = { module = "androidx.lifecycle:lifecycle-viewmodel-compose", version.ref = "compose-lifecycle" }
+compose-util = { module = "androidx.compose.ui:ui-util", version.ref = "compose-util" }
 napier = { module = "io.github.aakira:napier", version.ref = "napier" }
 kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "kotlinx-coroutines" }
 kotlinx-coroutines-android = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-android", version.ref = "kotlinx-coroutines" }
@@ -45,8 +52,10 @@ sqlDelight-driver-android = { module = "app.cash.sqldelight:android-driver", ver
 sqlDelight-driver-native = { module = "app.cash.sqldelight:native-driver", version.ref = "sqlDelight" }
 sqlDelight-driver-sqljs = { module = "app.cash.sqldelight:sqljs-driver", version.ref = "sqlDelight" }
 koin-core = { module = "io.insert-koin:koin-core", version.ref = "koin" }
+koin-androidx-compose = { module = "io.insert-koin:koin-androidx-compose", version.ref = "koin" }
 detekt_formatting = { module = "io.gitlab.arturbosch.detekt:detekt-formatting", version.ref = "detekt" }
 coil-compose = { module = "io.coil-kt:coil-compose", version.ref = "coil" }
+accompanist-permissions = { module = "com.google.accompanist:accompanist-permissions", version.ref = "accompanist-permissions" }
 
 
 ktor-core = { module = "io.ktor:ktor-client-core", version.ref = "ktor" }

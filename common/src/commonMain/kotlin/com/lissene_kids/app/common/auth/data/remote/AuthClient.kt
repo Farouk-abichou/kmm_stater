@@ -3,11 +3,11 @@ package com.lissene_kids.app.common.auth.data.remote
 import com.lissene_kids.app.common.auth.data.local.tokenSettings
 import com.lissene_kids.app.common.auth.data.remote.response.LogInResponse
 import com.lissene_kids.app.common.auth.data.remote.response.SignupResponse
-import com.lissene_kids.app.common.auth.data.util.LoginUrl
-import com.lissene_kids.app.common.auth.data.util.RefreshUrl
-import com.lissene_kids.app.common.auth.data.util.SignupUrl
 import com.lissene_kids.app.common.auth.domain.model.SignupInput
 import com.lissene_kids.app.common.auth.domain.model.Token
+import com.lissene_kids.app.common.core.network.util.LoginUrl
+import com.lissene_kids.app.common.core.network.util.RefreshUrl
+import com.lissene_kids.app.common.core.network.util.SignupUrl
 import io.ktor.client.*
 import io.ktor.client.call.*
 import io.ktor.client.request.*
@@ -18,9 +18,8 @@ import org.koin.core.component.inject
 import org.koin.core.qualifier.named
 
 
-
-class AuthClient: KoinComponent {
-    private val client : HttpClient by inject(named("NoAuth"))
+class AuthClient : KoinComponent {
+    private val client: HttpClient by inject(named("NoAuth"))
     suspend fun login(
         email: String,
         password: String
@@ -36,8 +35,8 @@ class AuthClient: KoinComponent {
 
         val result = response.body<LogInResponse>()
 
-        tokenSettings.putString("accessToken",result.data.tokens.accessToken)
-        tokenSettings.putString("refreshToken",result.data.tokens.refreshToken)
+        tokenSettings.putString("accessToken", result.data.tokens.accessToken)
+        tokenSettings.putString("refreshToken", result.data.tokens.refreshToken)
 
         return result
     }
@@ -64,19 +63,19 @@ class AuthClient: KoinComponent {
         ) {
             request {
                 bearerAuth(
-                    tokenSettings.getString("accessToken",""),
+                    tokenSettings.getString("accessToken", ""),
                 )
                 setBody(
                     hashMapOf(
-                        "refreshToken" to tokenSettings.getString("refreshToken",""),
+                        "refreshToken" to tokenSettings.getString("refreshToken", ""),
                     )
                 )
             }
         }
 
         val token = Json.decodeFromString<Token>(response.body())
-        tokenSettings.putString("accessToken",token.accessToken)
-        tokenSettings.putString("refreshToken",token.refreshToken)
+        tokenSettings.putString("accessToken", token.accessToken)
+        tokenSettings.putString("refreshToken", token.refreshToken)
 
         return token
     }

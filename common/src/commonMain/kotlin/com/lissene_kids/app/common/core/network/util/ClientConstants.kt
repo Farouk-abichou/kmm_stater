@@ -1,4 +1,4 @@
-package com.lissene_kids.app.common.auth.data.util
+package com.lissene_kids.app.common.core.network.util
 
 const val LoginUrl = "auth/login"
 const val LogoutUrl = "auth/logout"

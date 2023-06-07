@@ -6,7 +6,7 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.tooling.preview.Preview
-import com.lissene_kids.app.android.theme.ImTheme
+import com.lissene_kids.app.android.theme.LkTheme
 import com.lissene_kids.app.common.auth.presentation.signup.event.SignupEvent
 
 @Composable
@@ -24,7 +24,7 @@ fun SignUpScreen(
         }
     }
 
-    Scaffold {  paddingValues ->
+    Scaffold { paddingValues ->
 
         //Screen Content
 
@@ -35,7 +35,7 @@ fun SignUpScreen(
 @Preview
 @Composable
 private fun SignUpScreenPreview1() {
-    ImTheme {
+    LkTheme {
         SignUpScreen(
             viewModel = AndroidSignupViewModel(),
             onEvent = {},

@@ -12,7 +12,7 @@ class AndroidSignupViewModel : ViewModel() {
 
     val state = viewModel.state
 
-    fun onEvent(event: SignupEvent){
+    fun onEvent(event: SignupEvent) {
         viewModel.onEvent(event)
 
     }

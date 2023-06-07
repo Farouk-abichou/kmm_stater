@@ -5,7 +5,7 @@ import androidx.lifecycle.viewModelScope
 import com.lissene_kids.app.common.auth.presentation.login.LoginViewModel
 import com.lissene_kids.app.common.auth.presentation.login.event.LoginEvent
 
-class AndroidLoginViewModel: ViewModel(){
+class AndroidLoginViewModel : ViewModel() {
     private val viewModel = LoginViewModel(
         coroutineScope = viewModelScope
     )
@@ -13,7 +13,7 @@ class AndroidLoginViewModel: ViewModel(){
     val state = viewModel.state
     val logInInputState = viewModel.logInInputState
 
-    fun onEvent(event: LoginEvent){
+    fun onEvent(event: LoginEvent) {
         viewModel.onEvent(event)
     }
 }

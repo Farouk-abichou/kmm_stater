@@ -45,8 +45,9 @@ private val LightColorScheme = lightColorScheme(
     tertiaryContainer = Black4,
 
     )
+
 @Composable
-fun ImTheme(
+fun LkTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     content: @Composable () -> Unit
 ) {

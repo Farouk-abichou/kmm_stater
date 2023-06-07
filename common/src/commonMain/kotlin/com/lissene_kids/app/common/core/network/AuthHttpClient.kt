@@ -2,7 +2,7 @@ package com.lissene_kids.app.common.core.network
 
 import com.lissene_kids.app.common.auth.data.local.tokenSettings
 import com.lissene_kids.app.common.auth.data.remote.response.TokenResponse
-import com.lissene_kids.app.common.auth.data.util.RefreshUrl
+import com.lissene_kids.app.common.core.network.util.RefreshUrl
 import io.ktor.client.*
 import io.ktor.client.call.*
 import io.ktor.client.plugins.auth.*
