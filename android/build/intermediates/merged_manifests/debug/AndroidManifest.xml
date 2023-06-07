@@ -16,8 +16,6 @@
     <!-- A camera with burst capability is required to use this application -->
     <uses-feature android:name="android.hardware.camera.any" />
 
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-
     <permission
         android:name="com.lissene_kids.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
@@ -31,7 +29,6 @@
         android:extractNativeLibs="false"
         android:screenOrientation="portrait"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
         <activity
             android:name="com.lissene_kids.app.android.MainActivity"
@@ -42,14 +39,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.lissene_kids.app.android.recording.CameraActivity"
-            android:exported="true"
-            android:screenOrientation="portrait" >
-        </activity>
-        <activity
-            android:name="androidx.compose.ui.tooling.PreviewActivity"
-            android:exported="true" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
@@ -69,12 +58,9 @@
                 android:value="androidx.startup" />
         </provider>
 
-        <uses-library
-            android:name="androidx.window.extensions"
-            android:required="false" />
-        <uses-library
-            android:name="androidx.window.sidecar"
-            android:required="false" />
+        <activity
+            android:name="androidx.compose.ui.tooling.PreviewActivity"
+            android:exported="true" />
 
         <receiver
             android:name="androidx.profileinstaller.ProfileInstallReceiver"

@@ -15,7 +15,9 @@ fun SignUpScreen(
     navigateToHome: () -> Unit,
     navigateToLogin: () -> Unit,
 ) {
+
     val state by viewModel.state.collectAsState()
+    val signupInputState = viewModel.signupInputState.collectAsState()
 
     LaunchedEffect(state.isSuccess) {
         if (state.isSuccess) {

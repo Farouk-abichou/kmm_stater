@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.lissene_kids.app.android-mergeDebugResources-57:/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "com.lissene_kids.app.android-mergeDebugResources-59:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/Users/takiacademy/.gradle/caches/transforms-3/d645371134caf5d1c61de5756b2f1793/transformed/appcompat-1.6.1/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "source": "/Users/takiacademy/.gradle/caches/transforms-3/020d9adcf7b7c8b38e390af7513367c0/transformed/appcompat-1.6.1/res/values-xlarge-v4/values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

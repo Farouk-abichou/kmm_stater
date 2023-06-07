@@ -11,6 +11,7 @@ class AndroidSignupViewModel : ViewModel() {
     )
 
     val state = viewModel.state
+    val signupInputState = viewModel.signUpInputState
 
     fun onEvent(event: SignupEvent) {
         viewModel.onEvent(event)

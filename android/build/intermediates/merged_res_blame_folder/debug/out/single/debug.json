@@ -1,166 +1,82 @@
 [
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_light.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_light.ttf"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_semi_regular.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_semi_regular.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_semi_regular.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_semi_regular.ttf"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_bold.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_bold.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_flash.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/flash.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_italic.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_italic.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_extra_bold.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_extra_bold.ttf"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_extra_light_italic.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_extra_light_italic.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_im_logo.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/im_logo.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_medium.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_medium.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_hamburger.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/hamburger.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_bold_italic.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_bold_italic.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_facebook_logo.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/facebook_logo.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_medium_italic.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_medium_italic.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_menu.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/menu.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/xml_data_extraction_rules.xml.flat",
+        "source": "com.lissene_kids.app.android-main-63:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_thin.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_thin.ttf"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_extra_bold.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_extra_bold.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_extra_light_italic.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_extra_light_italic.ttf"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_thin_italic.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_thin_italic.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_clock.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/clock.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_extra_bold_italic.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_extra_bold_italic.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_video_play.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/video_play.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_black_italic.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_black_italic.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/ic_launcher_background.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_light.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_light.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_light_italic.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_light_italic.ttf"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_light_italic.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_light_italic.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable-add_agency_profile_pic.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable-add/agency_profile_pic.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_semi_bold_italic.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_semi_bold_italic.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_eye_icon.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/eye_icon.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/drawable-add_agency_profile_pic.xml.flat",
+        "source": "com.lissene_kids.app.android-main-63:/drawable-add/agency_profile_pic.xml"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_semi_bold_italic.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_semi_bold_italic.ttf"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_thin.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_thin.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/xml_data_extraction_rules.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/xml/data_extraction_rules.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_extra_light.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_extra_light.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_building.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/building.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_black.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_black.ttf"
     },
     {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_black_italic.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_black_italic.ttf"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable-add_user_profile_pic.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable-add/user_profile_pic.xml"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_black.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_black.ttf"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_play.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/play.xml"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_bold_italic.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_bold_italic.ttf"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_medium_italic.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_medium_italic.ttf"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_rotation.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/rotation.xml"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_info.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/info.xml"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_arrow_left.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/arrow_left.xml"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_location.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/location.xml"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_extra_light.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_extra_light.ttf"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_medium.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_medium.ttf"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_add.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/add.xml"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_extra_bold_italic.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_extra_bold_italic.ttf"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_google_logo.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/google_logo.xml"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_italic.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_italic.ttf"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_regular.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_regular.ttf"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/layout_activity_camera.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/layout/activity_camera.xml"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_arrow_right.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/arrow_right.xml"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_bold.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_bold.ttf"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/font_poppins_thin_italic.ttf.flat",
-        "source": "com.lissene_kids.app.android-main-61:/font/poppins_thin_italic.ttf"
-    },
-    {
-        "merged": "com.lissene_kids.app.android-merged_res-59:/drawable_profile.xml.flat",
-        "source": "com.lissene_kids.app.android-main-61:/drawable/profile.xml"
+        "merged": "com.lissene_kids.app.android-merged_res-61:/font_poppins_regular.ttf.flat",
+        "source": "com.lissene_kids.app.android-main-63:/font/poppins_regular.ttf"
     }
 ]
