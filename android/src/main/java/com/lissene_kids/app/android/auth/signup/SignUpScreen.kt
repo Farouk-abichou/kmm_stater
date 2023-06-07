@@ -23,11 +23,7 @@ fun SignUpScreen(
         }
     }
 
-//    Scaffold { paddingValues ->
-
-        //Screen Content
-
-//    }
+    //Screen Content
 
 }
 

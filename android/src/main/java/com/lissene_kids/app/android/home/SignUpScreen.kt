@@ -17,12 +17,7 @@ fun HomeScreen(
     val state by viewModel.state.collectAsState()
     val signUpInputState by viewModel.signUpInputState.collectAsState()
 
-
-//    Scaffold { paddingValues ->
-
-        //Screen Content
-
-//    }
+    //Screen Content
 
 }
 

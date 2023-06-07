@@ -24,11 +24,8 @@ fun LogInScreen(
         }
     }
 
-//    Scaffold { paddingValues ->
+    //Screen Content
 
-        //Screen Content
-
-//    }
 }
 
 @Preview
