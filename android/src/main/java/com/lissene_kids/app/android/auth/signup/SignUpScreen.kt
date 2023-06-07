@@ -1,6 +1,5 @@
 package com.lissene_kids.app.android.auth.signup
 
-import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
@@ -24,11 +23,11 @@ fun SignUpScreen(
         }
     }
 
-    Scaffold { paddingValues ->
+//    Scaffold { paddingValues ->
 
         //Screen Content
 
-    }
+//    }
 
 }
 

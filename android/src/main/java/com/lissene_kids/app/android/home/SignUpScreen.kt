@@ -1,6 +1,5 @@
 package com.lissene_kids.app.android.home
 
-import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
@@ -19,11 +18,11 @@ fun HomeScreen(
     val signUpInputState by viewModel.signUpInputState.collectAsState()
 
 
-    Scaffold { paddingValues ->
+//    Scaffold { paddingValues ->
 
         //Screen Content
 
-    }
+//    }
 
 }
 
