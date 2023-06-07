@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.lissene_kids.app.android-mergeDebugResources-59:/values-port/values-port.xml",
+            "outputFile": "com.kmm_stater.app.android-mergeDebugResources-59:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/takiacademy/.gradle/caches/transforms-3/020d9adcf7b7c8b38e390af7513367c0/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "source": "/Users/takiacademy/.gradle/caches/transforms-3/eb4cdd3df1cd52e5a1404020b6f541bd/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

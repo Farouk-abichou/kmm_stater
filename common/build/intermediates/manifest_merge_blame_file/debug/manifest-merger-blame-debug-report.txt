@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.lissene_kids.app.common" >
+3    package="com.kmm_stater.app.common" >
 4
 5    <uses-sdk android:minSdkVersion="28" />
-5-->/Users/takiacademy/IdeaProjects/lissene-kids/common/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11194545488208973794.xml
+5-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/common/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1996477739340332638.xml
 6
 7</manifest>

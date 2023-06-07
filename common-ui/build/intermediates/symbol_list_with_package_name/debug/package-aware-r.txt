@@ -1,1 +1,1 @@
-com.lissene_kids.app.common.ui
+com.kmm_stater.app.common.ui

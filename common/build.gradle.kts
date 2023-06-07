@@ -115,7 +115,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.lissene_kids.app.common"
+    namespace = "com.kmm_stater.app.common"
     compileSdk = (findProperty("android.compileSdk") as String).toInt()
 
     defaultConfig {
@@ -140,7 +140,7 @@ sqldelight {
     create("IMDatabase") {
       // Database configuration here.
       // https://cashapp.github.io/sqldelight
-      packageName.set("com.lissene_kids.app.db")
+      packageName.set("com.kmm_stater.app.db")
     }
   }
 }

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.lissene_kids.app.android"
+    package="com.kmm_stater.app.android"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -17,10 +17,10 @@
     <uses-feature android:name="android.hardware.camera.any" />
 
     <permission
-        android:name="com.lissene_kids.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.kmm_stater.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.lissene_kids.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.kmm_stater.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:allowBackup="false"
@@ -29,9 +29,10 @@
         android:extractNativeLibs="false"
         android:screenOrientation="portrait"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
         <activity
-            android:name="com.lissene_kids.app.android.MainActivity"
+            android:name="com.kmm_stater.app.android.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -42,7 +43,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.lissene_kids.app.android.androidx-startup"
+            android:authorities="com.kmm_stater.app.android.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

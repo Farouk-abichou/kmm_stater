@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.lissene_kids.app.android",
+  "applicationId": "com.kmm_stater.app.android",
   "variantName": "debug",
   "elements": [
     {

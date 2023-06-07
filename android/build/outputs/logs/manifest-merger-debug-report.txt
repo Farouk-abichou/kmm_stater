@@ -1,450 +1,450 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:2:1-28:12
-MERGED from [:common] /Users/takiacademy/IdeaProjects/lissene-kids/common/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:common-ui] /Users/takiacademy/IdeaProjects/lissene-kids/common-ui/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.accompanist:accompanist-permissions:0.31.2-alpha] /Users/takiacademy/.gradle/caches/transforms-3/57fc03cbe796705e310d44f79fcc3732/transformed/accompanist-permissions-0.31.2-alpha/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/takiacademy/.gradle/caches/transforms-3/231fe61552df5ee090ac56b35ea3e15d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
-MERGED from [io.coil-kt:coil-compose:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/f6852b07a57fc9661477184a322a6cab/transformed/coil-compose-2.3.0/AndroidManifest.xml:2:1-7:12
-MERGED from [io.coil-kt:coil-compose-base:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/539203755b006bea7652f6ab632b9ad8/transformed/coil-compose-base-2.3.0/AndroidManifest.xml:2:1-7:12
-MERGED from [io.coil-kt:coil:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/057f8b34380b98974fca3a7e0baa3bd0/transformed/coil-2.3.0/AndroidManifest.xml:2:1-7:12
-MERGED from [io.coil-kt:coil-base:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/4edbfd096062fcaaf4d438f2b6b44550/transformed/coil-base-2.3.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/takiacademy/.gradle/caches/transforms-3/51bd548dc696e62990d2e41a9375e728/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [io.insert-koin:koin-androidx-compose:3.4.0] /Users/takiacademy/.gradle/caches/transforms-3/09e303f207d78f87db5a4628ff8b6c2f/transformed/koin-androidx-compose-3.4.0/AndroidManifest.xml:2:1-9:12
-MERGED from [io.insert-koin:koin-android:3.3.1] /Users/takiacademy/.gradle/caches/transforms-3/220cbff4edcf916e16329c52b0384c5c/transformed/koin-android-3.3.1/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/takiacademy/.gradle/caches/transforms-3/020d9adcf7b7c8b38e390af7513367c0/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material3:material3:1.2.0-alpha01] /Users/takiacademy/.gradle/caches/transforms-3/c68492352f5252b0d919d03729e0a8f1/transformed/material3-1.2.0-alpha01/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material:material-ripple:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/ed1191d8e02d18fdc54ef8e83318a0a1/transformed/material-ripple-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material:material-icons-core:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/a6c371bf395b8c6da04e9ab006094c76/transformed/material-icons-core-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/c9871ac0a775f816212629fc9404fde6/transformed/navigation-compose-2.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.animation:animation-core:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/2b039dc8b3ec7d96c46034b7d580fd0d/transformed/animation-core-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.animation:animation:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/81162af4d5e2762e7188df22440b2745/transformed/animation-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.foundation:foundation-layout:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/da7ebefead2b755c4244d07ce316eb35/transformed/foundation-layout-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/d2a409c5118cb2fd8abbce56070a8b9c/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/a2225c2e74f7ea8dad289d5efc629c86/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment-ktx:1.5.3] /Users/takiacademy/.gradle/caches/transforms-3/9f28d909937cf41aaa7895e261636556/transformed/fragment-ktx-1.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity-ktx:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/b29e4f1b6b90edea434ef83389966846/transformed/activity-ktx-1.7.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.5.3] /Users/takiacademy/.gradle/caches/transforms-3/321fa27e4381a6807392eaf4e011716b/transformed/fragment-1.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/de5c266061d3d8d77dd8a219b716d3af/transformed/activity-1.7.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity-compose:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/1931aef8c7d78de0824114170237ee1e/transformed/activity-compose-1.7.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/b34b45f71a1ba12824851923b5c8aeac/transformed/emoji2-views-helper-1.4.0-beta03/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/e3e29eb5a0f5aaf036633df5cc9554cf/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/139a3523d4d96d24c68b5d3d4a5edcf6/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/aaf385c53ca1fa1f4a4ac96cb8eda05f/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/1c35bbf8344c6fb084c89194400a3daf/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/7f459313795ff686bb65bc73b1e23aa6/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/0b97cb3269f807e9232d184c3c4fd2cb/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/e35ff8aa2ccd4555f754964e294df399/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/6b085a2a758276f09e5ba17bc9e1d547/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/1045e2d6a91157c6e2c7325a0a22c881/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/041fb25b12d31399870e233f4198768a/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/a1e0c688223ae5e7f7b921a20e1a259e/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-tooling-preview:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/9eef3a97e0b3c16b6c455bee49cd0a82/transformed/ui-tooling-preview-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-tooling-data:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/8302b5a7b14086702c8ebb039292525a/transformed/ui-tooling-data-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-unit:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/f0f34b4576a83454cdda979f453d7b68/transformed/ui-unit-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-util:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/abee6e4de094e06064480be5ac10e43f/transformed/ui-util-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-geometry:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/6425126b741fd5eb2d1afddf1c8bd4a7/transformed/ui-geometry-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-graphics:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/3ed58293b7673ce22fd24b1cd4a589a9/transformed/ui-graphics-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.accompanist:accompanist-drawablepainter:0.30.0] /Users/takiacademy/.gradle/caches/transforms-3/d5354478dd488dd9d0dcb19cda7ebbe2/transformed/accompanist-drawablepainter-0.30.0/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.compose.ui:ui:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/47d715e0944789455673ab1fff589a9e/transformed/ui-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.foundation:foundation:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/de88704bf24a7ca4430dea0b4377e036/transformed/foundation-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-text:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dbbec27f01d195f5d97775f9d6f9ee22/transformed/ui-text-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dde5a7c38749e257608fc09eb36fe667/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.compose.material:material:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/09c5c9b15a890d73b4384e09fe2fbb55/transformed/material-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/8c8da85515747ee24716f01e9b719a7e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/takiacademy/.gradle/caches/transforms-3/5ce899f36a444a242f55022b14742701/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/takiacademy/.gradle/caches/transforms-3/86f1f12435794d06d3378adb2d0eeac1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/bfc32ce5af2aa518b2cbd736fc7827c1/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/193d626a8104608a728a437cfac28f77/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/6215819a7b73ddeb38da85814c95f591/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/efdebb52721592747852ca66640d6eef/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.core:core-ktx:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/89b4919a1ed201acd2b3c6180c8395b0/transformed/core-ktx-1.11.0-alpha04/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/343c5af4ef7df72c2afe6014f743c1e3/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/takiacademy/.gradle/caches/transforms-3/5d36cb193c4b9553f503cfb94078feed/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/takiacademy/.gradle/caches/transforms-3/b67c4dd11245ed3aec7b625edaa4591c/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.runtime:runtime-saveable:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/cb2405af5ba0523ae375578623d944b0/transformed/runtime-saveable-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.runtime:runtime:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/2ede40b526561a0c32681c286e7fec66/transformed/runtime-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
-MERGED from [app.cash.sqldelight:android-driver:2.0.0-alpha05] /Users/takiacademy/.gradle/caches/transforms-3/4d262d58869e881666492ad35591839d/transformed/android-driver-2.0.0-alpha05-debug/AndroidManifest.xml:2:1-7:12
-MERGED from [io.github.aakira:napier-android-debug:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/fb52155809b2765b3004885a144b7349/transformed/napier-debug/AndroidManifest.xml:2:1-9:12
-MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:17:1-37:12
-MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/409e62faef121a4ac4f41bb5c878371c/transformed/multiplatform-settings-debug/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/f7accfbb79b01bc7d7768116852c05e5/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/3e575a5ad280a2f3bbb4dfc2f8f177f1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/bc50388be8cbc61db9957097c3b1dc9a/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/f1bf6e25b60767a056ada316014278fc/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a0c3449ac530d68ba6081aaef7e742b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/8f966fb58a0c75a0003979440774083d/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/ff37ae2ac19b6efe3e445a6bf07a0a20/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/fcf587bc22c83ac472427c76a0cd9df0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1b562f604196d62283da5e1bd06954ba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/takiacademy/.gradle/caches/transforms-3/6999acf82dc9f99ebdb243ca903cd198/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [:common] /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/common/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:common-ui] /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/common-ui/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-permissions:0.31.2-alpha] /Users/takiacademy/.gradle/caches/transforms-3/8c68b45a031fed4f19f815ce92549ee3/transformed/accompanist-permissions-0.31.2-alpha/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/takiacademy/.gradle/caches/transforms-3/01000d750d82beca5dd333b2db4435cd/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [io.coil-kt:coil-compose:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/76a73ac6e4cc841b1363ace1845e4b94/transformed/coil-compose-2.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/f3212eb58cf7096a3db0a86d19faa70c/transformed/coil-compose-base-2.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/dc9ee7ec6434dfeb17ad283cb82d93d4/transformed/coil-2.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ec42c53a166637f80b0504a97d474d5e/transformed/coil-base-2.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/takiacademy/.gradle/caches/transforms-3/b017704067e6009029c315c88f468e5d/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.0] /Users/takiacademy/.gradle/caches/transforms-3/a36f7a6d2d436e931ff7d2a2d6359078/transformed/koin-androidx-compose-3.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.insert-koin:koin-android:3.3.1] /Users/takiacademy/.gradle/caches/transforms-3/8dab25c5f281468a77082b17da912244/transformed/koin-android-3.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/takiacademy/.gradle/caches/transforms-3/eb4cdd3df1cd52e5a1404020b6f541bd/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3:1.2.0-alpha01] /Users/takiacademy/.gradle/caches/transforms-3/e5a5b5a61c11777743e2dc986ea00a5a/transformed/material3-1.2.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/66879b4720101e5aab00e86ae7ba24b1/transformed/material-ripple-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/65e5cff9baf5d84f3d91be2f89536730/transformed/material-icons-core-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/43e5a112b3a350783f310528412d079c/transformed/navigation-compose-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/567e54d178d4425fd42b751b6fa9d3ed/transformed/animation-core-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/74c91f6a5be5b9e7840ea076af01fd73/transformed/animation-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/cf10ed1c484167581054b959afaa3d9b/transformed/foundation-layout-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/d067a942a1a4723f00ecddf715b213d0/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/52d9065310fe5861f443a9c9ba97edf6/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.3] /Users/takiacademy/.gradle/caches/transforms-3/44cb24c8140938387cdd91f9741517f3/transformed/fragment-ktx-1.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/8c79ef8fa583afbb65588eae2be6904c/transformed/activity-ktx-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.5.3] /Users/takiacademy/.gradle/caches/transforms-3/61b39684c4d9738785dc5970c2f543d5/transformed/fragment-1.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/089c090044c3610bf85cfbf97d5d0ffb/transformed/activity-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/7eccf9138c88a97076d45434e28caf27/transformed/activity-compose-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/12ef7ac4bd423d49f7e9712ca1543bf5/transformed/emoji2-views-helper-1.4.0-beta03/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/a23722d67f0c2be90af69f8bf7a25291/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/6dfe2a8a635ea5e8a64ef521108c863f/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/60716aaf2ff7ec288c652e5f0c211152/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/dee72f90d1071d0428a4d7c8f2efcc2c/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/f8d61080fa389dc5844d1421a5ea0311/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/e3f16a49b2ab5e6354e8440996556059/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/cbfbecebd703dc2aa61f39c78e02c929/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/db515429f139a3d3c75398282b7fcb81/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/7a95b4c59c40f1697730a0286dddfe1a/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/1b20815887d87ee57d7e87455900f761/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/5fbf2547a21ef6eb2c5b0f8faf83d681/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/404b790e67e89d0be2b8943fd9aeb517/transformed/ui-tooling-preview-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/1bc71f314b7ea5f41b2da3a502fcd7b6/transformed/ui-tooling-data-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/13ae402d31a94151f9091296dd9077b9/transformed/ui-unit-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/1e7054b640a8293b6389b3dc7720689a/transformed/ui-util-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/44905f87ade005f933590f6dc2927ce9/transformed/ui-geometry-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/7267794cc18e9c64769d5e3a4f05ce48/transformed/ui-graphics-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.30.0] /Users/takiacademy/.gradle/caches/transforms-3/942fb00b40e5b70cf3c60261f78acfb6/transformed/accompanist-drawablepainter-0.30.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.compose.ui:ui:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/8876e2147beb8ae4817c08275e4e2818/transformed/ui-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/4d0077019e32cefd66a43983649a0db9/transformed/foundation-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/ec6b1b930870328c6cc1cd5718935114/transformed/ui-text-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/e77415e4c2299aacadc629b2e7be3615/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/91ea5a1668b7c83464f884f92d2ee609/transformed/material-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/645571206823375375678c599684d75e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/takiacademy/.gradle/caches/transforms-3/68a78d6320f5f06ff2d748796fa88546/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/takiacademy/.gradle/caches/transforms-3/7b9caf92ee0ad0806f63a7f7d17812fb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/0dfeb08fb37c6013e55763de7d9c8151/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/ba0b383112c3fbb5acb2bdf913f7f1a9/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/fdd1f564964572fe4f4a499df76621f6/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/5ae60ab41b3b18487f23601d77f293df/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/4139d9bc90a3313ec1460e7a7e9a154d/transformed/core-ktx-1.11.0-alpha04/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/1dca5ec0cf239103c0fe9b842af0e1ed/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/takiacademy/.gradle/caches/transforms-3/d3887a9e5e5f9408a3cd6aa014df7568/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/takiacademy/.gradle/caches/transforms-3/0fba4a13acdb7eb21717370782a8959b/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/7848224d8917c95ab5c98a460f566d97/transformed/runtime-saveable-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/f9f40adf6bd229599bcf538fcf2699a8/transformed/runtime-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [app.cash.sqldelight:android-driver:2.0.0-alpha05] /Users/takiacademy/.gradle/caches/transforms-3/b380f8af9e19a00b1ebb0b6cc6a37733/transformed/android-driver-2.0.0-alpha05-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [io.github.aakira:napier-android-debug:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/64b2358e3d0250c10e509d539247ebf3/transformed/napier-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:17:1-37:12
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/2d3220fd5a84aada07e543d3eb519cb3/transformed/multiplatform-settings-debug/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/f9ac2f5058bdbb8ce7044862a205fdb9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/8ea6bc8c1d2079fd59027d5eb33e2765/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/c3318ba88aa1b0e47d94a0641be76b57/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/57b132d81865ef9cb8322d4afee6e329/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a692d8ce9e2f8f29874399c866f8364/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/1fbdbdde2c8c85ad5ed07f62a1c1e9aa/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/34dec309e0297768e6b32303af4268e7/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/c04e6fdea011f61aaf0132d21637f168/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/228bf597a02eb9a642ac0ba77c8b534d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/takiacademy/.gradle/caches/transforms-3/cdd2fb7c31b6ad2b05f28733bfa24d0d/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:2:70-108
-		INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:2:70-106
+		INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:2:1-28:12
-		INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:2:1-28:12
-		INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:5:5-67
+ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.CAMERA
-ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:6:5-65
+ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:6:5-65
 	android:name
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:6:22-62
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:6:22-62
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:7:5-71
+ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:7:5-71
 	android:name
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:7:22-68
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:7:22-68
 uses-feature#android.hardware.camera.any
-ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:10:5-64
+ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:10:5-64
 	android:name
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:10:19-61
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:10:19-61
 application
-ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:12:5-27:19
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/takiacademy/.gradle/caches/transforms-3/231fe61552df5ee090ac56b35ea3e15d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/takiacademy/.gradle/caches/transforms-3/231fe61552df5ee090ac56b35ea3e15d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [io.insert-koin:koin-android:3.3.1] /Users/takiacademy/.gradle/caches/transforms-3/220cbff4edcf916e16329c52b0384c5c/transformed/koin-android-3.3.1/AndroidManifest.xml:7:5-20
-MERGED from [io.insert-koin:koin-android:3.3.1] /Users/takiacademy/.gradle/caches/transforms-3/220cbff4edcf916e16329c52b0384c5c/transformed/koin-android-3.3.1/AndroidManifest.xml:7:5-20
-MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dde5a7c38749e257608fc09eb36fe667/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dde5a7c38749e257608fc09eb36fe667/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:28:5-89
-MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:25:5-35:19
-MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a0c3449ac530d68ba6081aaef7e742b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a0c3449ac530d68ba6081aaef7e742b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1b562f604196d62283da5e1bd06954ba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1b562f604196d62283da5e1bd06954ba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:12:5-27:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/takiacademy/.gradle/caches/transforms-3/01000d750d82beca5dd333b2db4435cd/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/takiacademy/.gradle/caches/transforms-3/01000d750d82beca5dd333b2db4435cd/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-android:3.3.1] /Users/takiacademy/.gradle/caches/transforms-3/8dab25c5f281468a77082b17da912244/transformed/koin-android-3.3.1/AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-android:3.3.1] /Users/takiacademy/.gradle/caches/transforms-3/8dab25c5f281468a77082b17da912244/transformed/koin-android-3.3.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/e77415e4c2299aacadc629b2e7be3615/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/e77415e4c2299aacadc629b2e7be3615/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:28:5-89
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:25:5-35:19
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a692d8ce9e2f8f29874399c866f8364/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a692d8ce9e2f8f29874399c866f8364/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/228bf597a02eb9a642ac0ba77c8b534d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/228bf597a02eb9a642ac0ba77c8b534d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:screenOrientation
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:16:9-45
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:16:9-45
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:14:9-35
 	android:allowBackup
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:13:9-36
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:13:9-36
 	android:theme
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:15:9-65
-activity#com.lissene_kids.app.android.MainActivity
-ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:18:9-26:20
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:15:9-65
+activity#com.kmm_stater.app.android.MainActivity
+ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:18:9-26:20
 	android:exported
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:20:13-36
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:19:13-41
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:19:13-67
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:22:13-25:29
+ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:23:17-68
+ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:23:17-68
 	android:name
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:23:25-66
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:24:17-76
+ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:24:17-76
 	android:name
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:24:27-74
 uses-sdk
-INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
-INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
-MERGED from [:common] /Users/takiacademy/IdeaProjects/lissene-kids/common/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:common] /Users/takiacademy/IdeaProjects/lissene-kids/common/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:common-ui] /Users/takiacademy/IdeaProjects/lissene-kids/common-ui/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:common-ui] /Users/takiacademy/IdeaProjects/lissene-kids/common-ui/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [com.google.accompanist:accompanist-permissions:0.31.2-alpha] /Users/takiacademy/.gradle/caches/transforms-3/57fc03cbe796705e310d44f79fcc3732/transformed/accompanist-permissions-0.31.2-alpha/AndroidManifest.xml:21:5-23:42
-MERGED from [com.google.accompanist:accompanist-permissions:0.31.2-alpha] /Users/takiacademy/.gradle/caches/transforms-3/57fc03cbe796705e310d44f79fcc3732/transformed/accompanist-permissions-0.31.2-alpha/AndroidManifest.xml:21:5-23:42
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/takiacademy/.gradle/caches/transforms-3/231fe61552df5ee090ac56b35ea3e15d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/takiacademy/.gradle/caches/transforms-3/231fe61552df5ee090ac56b35ea3e15d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [io.coil-kt:coil-compose:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/f6852b07a57fc9661477184a322a6cab/transformed/coil-compose-2.3.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-compose:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/f6852b07a57fc9661477184a322a6cab/transformed/coil-compose-2.3.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-compose-base:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/539203755b006bea7652f6ab632b9ad8/transformed/coil-compose-base-2.3.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-compose-base:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/539203755b006bea7652f6ab632b9ad8/transformed/coil-compose-base-2.3.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/057f8b34380b98974fca3a7e0baa3bd0/transformed/coil-2.3.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/057f8b34380b98974fca3a7e0baa3bd0/transformed/coil-2.3.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-base:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/4edbfd096062fcaaf4d438f2b6b44550/transformed/coil-base-2.3.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-base:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/4edbfd096062fcaaf4d438f2b6b44550/transformed/coil-base-2.3.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/takiacademy/.gradle/caches/transforms-3/51bd548dc696e62990d2e41a9375e728/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/takiacademy/.gradle/caches/transforms-3/51bd548dc696e62990d2e41a9375e728/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [io.insert-koin:koin-androidx-compose:3.4.0] /Users/takiacademy/.gradle/caches/transforms-3/09e303f207d78f87db5a4628ff8b6c2f/transformed/koin-androidx-compose-3.4.0/AndroidManifest.xml:5:5-7:41
-MERGED from [io.insert-koin:koin-androidx-compose:3.4.0] /Users/takiacademy/.gradle/caches/transforms-3/09e303f207d78f87db5a4628ff8b6c2f/transformed/koin-androidx-compose-3.4.0/AndroidManifest.xml:5:5-7:41
-MERGED from [io.insert-koin:koin-android:3.3.1] /Users/takiacademy/.gradle/caches/transforms-3/220cbff4edcf916e16329c52b0384c5c/transformed/koin-android-3.3.1/AndroidManifest.xml:5:5-44
-MERGED from [io.insert-koin:koin-android:3.3.1] /Users/takiacademy/.gradle/caches/transforms-3/220cbff4edcf916e16329c52b0384c5c/transformed/koin-android-3.3.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/takiacademy/.gradle/caches/transforms-3/020d9adcf7b7c8b38e390af7513367c0/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/takiacademy/.gradle/caches/transforms-3/020d9adcf7b7c8b38e390af7513367c0/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3:1.2.0-alpha01] /Users/takiacademy/.gradle/caches/transforms-3/c68492352f5252b0d919d03729e0a8f1/transformed/material3-1.2.0-alpha01/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3:1.2.0-alpha01] /Users/takiacademy/.gradle/caches/transforms-3/c68492352f5252b0d919d03729e0a8f1/transformed/material3-1.2.0-alpha01/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-ripple:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/ed1191d8e02d18fdc54ef8e83318a0a1/transformed/material-ripple-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-ripple:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/ed1191d8e02d18fdc54ef8e83318a0a1/transformed/material-ripple-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-icons-core:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/a6c371bf395b8c6da04e9ab006094c76/transformed/material-icons-core-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-icons-core:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/a6c371bf395b8c6da04e9ab006094c76/transformed/material-icons-core-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/c9871ac0a775f816212629fc9404fde6/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/c9871ac0a775f816212629fc9404fde6/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.animation:animation-core:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/2b039dc8b3ec7d96c46034b7d580fd0d/transformed/animation-core-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.animation:animation-core:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/2b039dc8b3ec7d96c46034b7d580fd0d/transformed/animation-core-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.animation:animation:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/81162af4d5e2762e7188df22440b2745/transformed/animation-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.animation:animation:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/81162af4d5e2762e7188df22440b2745/transformed/animation-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.foundation:foundation-layout:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/da7ebefead2b755c4244d07ce316eb35/transformed/foundation-layout-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.foundation:foundation-layout:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/da7ebefead2b755c4244d07ce316eb35/transformed/foundation-layout-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/d2a409c5118cb2fd8abbce56070a8b9c/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/d2a409c5118cb2fd8abbce56070a8b9c/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/a2225c2e74f7ea8dad289d5efc629c86/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/a2225c2e74f7ea8dad289d5efc629c86/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.5.3] /Users/takiacademy/.gradle/caches/transforms-3/9f28d909937cf41aaa7895e261636556/transformed/fragment-ktx-1.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.5.3] /Users/takiacademy/.gradle/caches/transforms-3/9f28d909937cf41aaa7895e261636556/transformed/fragment-ktx-1.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity-ktx:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/b29e4f1b6b90edea434ef83389966846/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-ktx:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/b29e4f1b6b90edea434ef83389966846/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.5.3] /Users/takiacademy/.gradle/caches/transforms-3/321fa27e4381a6807392eaf4e011716b/transformed/fragment-1.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.5.3] /Users/takiacademy/.gradle/caches/transforms-3/321fa27e4381a6807392eaf4e011716b/transformed/fragment-1.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/de5c266061d3d8d77dd8a219b716d3af/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/de5c266061d3d8d77dd8a219b716d3af/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-compose:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/1931aef8c7d78de0824114170237ee1e/transformed/activity-compose-1.7.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-compose:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/1931aef8c7d78de0824114170237ee1e/transformed/activity-compose-1.7.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/b34b45f71a1ba12824851923b5c8aeac/transformed/emoji2-views-helper-1.4.0-beta03/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/b34b45f71a1ba12824851923b5c8aeac/transformed/emoji2-views-helper-1.4.0-beta03/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:21:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/e3e29eb5a0f5aaf036633df5cc9554cf/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/e3e29eb5a0f5aaf036633df5cc9554cf/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/139a3523d4d96d24c68b5d3d4a5edcf6/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/139a3523d4d96d24c68b5d3d4a5edcf6/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/aaf385c53ca1fa1f4a4ac96cb8eda05f/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/aaf385c53ca1fa1f4a4ac96cb8eda05f/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/1c35bbf8344c6fb084c89194400a3daf/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/1c35bbf8344c6fb084c89194400a3daf/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/7f459313795ff686bb65bc73b1e23aa6/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/7f459313795ff686bb65bc73b1e23aa6/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/0b97cb3269f807e9232d184c3c4fd2cb/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/0b97cb3269f807e9232d184c3c4fd2cb/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/e35ff8aa2ccd4555f754964e294df399/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/e35ff8aa2ccd4555f754964e294df399/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/6b085a2a758276f09e5ba17bc9e1d547/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/6b085a2a758276f09e5ba17bc9e1d547/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/1045e2d6a91157c6e2c7325a0a22c881/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/1045e2d6a91157c6e2c7325a0a22c881/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/041fb25b12d31399870e233f4198768a/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/041fb25b12d31399870e233f4198768a/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/a1e0c688223ae5e7f7b921a20e1a259e/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/a1e0c688223ae5e7f7b921a20e1a259e/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/9eef3a97e0b3c16b6c455bee49cd0a82/transformed/ui-tooling-preview-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/9eef3a97e0b3c16b6c455bee49cd0a82/transformed/ui-tooling-preview-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/8302b5a7b14086702c8ebb039292525a/transformed/ui-tooling-data-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/8302b5a7b14086702c8ebb039292525a/transformed/ui-tooling-data-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-unit:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/f0f34b4576a83454cdda979f453d7b68/transformed/ui-unit-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-unit:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/f0f34b4576a83454cdda979f453d7b68/transformed/ui-unit-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-util:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/abee6e4de094e06064480be5ac10e43f/transformed/ui-util-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-util:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/abee6e4de094e06064480be5ac10e43f/transformed/ui-util-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-geometry:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/6425126b741fd5eb2d1afddf1c8bd4a7/transformed/ui-geometry-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-geometry:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/6425126b741fd5eb2d1afddf1c8bd4a7/transformed/ui-geometry-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-graphics:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/3ed58293b7673ce22fd24b1cd4a589a9/transformed/ui-graphics-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-graphics:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/3ed58293b7673ce22fd24b1cd4a589a9/transformed/ui-graphics-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [com.google.accompanist:accompanist-drawablepainter:0.30.0] /Users/takiacademy/.gradle/caches/transforms-3/d5354478dd488dd9d0dcb19cda7ebbe2/transformed/accompanist-drawablepainter-0.30.0/AndroidManifest.xml:21:5-23:42
-MERGED from [com.google.accompanist:accompanist-drawablepainter:0.30.0] /Users/takiacademy/.gradle/caches/transforms-3/d5354478dd488dd9d0dcb19cda7ebbe2/transformed/accompanist-drawablepainter-0.30.0/AndroidManifest.xml:21:5-23:42
-MERGED from [androidx.compose.ui:ui:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/47d715e0944789455673ab1fff589a9e/transformed/ui-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/47d715e0944789455673ab1fff589a9e/transformed/ui-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.foundation:foundation:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/de88704bf24a7ca4430dea0b4377e036/transformed/foundation-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.foundation:foundation:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/de88704bf24a7ca4430dea0b4377e036/transformed/foundation-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-text:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dbbec27f01d195f5d97775f9d6f9ee22/transformed/ui-text-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-text:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dbbec27f01d195f5d97775f9d6f9ee22/transformed/ui-text-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dde5a7c38749e257608fc09eb36fe667/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dde5a7c38749e257608fc09eb36fe667/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/09c5c9b15a890d73b4384e09fe2fbb55/transformed/material-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/09c5c9b15a890d73b4384e09fe2fbb55/transformed/material-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/8c8da85515747ee24716f01e9b719a7e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/8c8da85515747ee24716f01e9b719a7e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/takiacademy/.gradle/caches/transforms-3/5ce899f36a444a242f55022b14742701/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/takiacademy/.gradle/caches/transforms-3/5ce899f36a444a242f55022b14742701/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/takiacademy/.gradle/caches/transforms-3/86f1f12435794d06d3378adb2d0eeac1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/takiacademy/.gradle/caches/transforms-3/86f1f12435794d06d3378adb2d0eeac1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/bfc32ce5af2aa518b2cbd736fc7827c1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/bfc32ce5af2aa518b2cbd736fc7827c1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/193d626a8104608a728a437cfac28f77/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/193d626a8104608a728a437cfac28f77/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/6215819a7b73ddeb38da85814c95f591/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/6215819a7b73ddeb38da85814c95f591/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/efdebb52721592747852ca66640d6eef/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/efdebb52721592747852ca66640d6eef/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.core:core-ktx:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/89b4919a1ed201acd2b3c6180c8395b0/transformed/core-ktx-1.11.0-alpha04/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/89b4919a1ed201acd2b3c6180c8395b0/transformed/core-ktx-1.11.0-alpha04/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/343c5af4ef7df72c2afe6014f743c1e3/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/343c5af4ef7df72c2afe6014f743c1e3/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/takiacademy/.gradle/caches/transforms-3/5d36cb193c4b9553f503cfb94078feed/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/takiacademy/.gradle/caches/transforms-3/5d36cb193c4b9553f503cfb94078feed/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/takiacademy/.gradle/caches/transforms-3/b67c4dd11245ed3aec7b625edaa4591c/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/takiacademy/.gradle/caches/transforms-3/b67c4dd11245ed3aec7b625edaa4591c/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/cb2405af5ba0523ae375578623d944b0/transformed/runtime-saveable-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/cb2405af5ba0523ae375578623d944b0/transformed/runtime-saveable-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.runtime:runtime:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/2ede40b526561a0c32681c286e7fec66/transformed/runtime-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.runtime:runtime:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/2ede40b526561a0c32681c286e7fec66/transformed/runtime-1.5.0-alpha04/AndroidManifest.xml:20:5-44
-MERGED from [app.cash.sqldelight:android-driver:2.0.0-alpha05] /Users/takiacademy/.gradle/caches/transforms-3/4d262d58869e881666492ad35591839d/transformed/android-driver-2.0.0-alpha05-debug/AndroidManifest.xml:5:5-44
-MERGED from [app.cash.sqldelight:android-driver:2.0.0-alpha05] /Users/takiacademy/.gradle/caches/transforms-3/4d262d58869e881666492ad35591839d/transformed/android-driver-2.0.0-alpha05-debug/AndroidManifest.xml:5:5-44
-MERGED from [io.github.aakira:napier-android-debug:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/fb52155809b2765b3004885a144b7349/transformed/napier-debug/AndroidManifest.xml:5:5-7:41
-MERGED from [io.github.aakira:napier-android-debug:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/fb52155809b2765b3004885a144b7349/transformed/napier-debug/AndroidManifest.xml:5:5-7:41
-MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:21:5-23:41
-MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:21:5-23:41
-MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/409e62faef121a4ac4f41bb5c878371c/transformed/multiplatform-settings-debug/AndroidManifest.xml:20:5-22:41
-MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/409e62faef121a4ac4f41bb5c878371c/transformed/multiplatform-settings-debug/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/f7accfbb79b01bc7d7768116852c05e5/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/f7accfbb79b01bc7d7768116852c05e5/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/3e575a5ad280a2f3bbb4dfc2f8f177f1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/3e575a5ad280a2f3bbb4dfc2f8f177f1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/bc50388be8cbc61db9957097c3b1dc9a/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/bc50388be8cbc61db9957097c3b1dc9a/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/f1bf6e25b60767a056ada316014278fc/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/f1bf6e25b60767a056ada316014278fc/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a0c3449ac530d68ba6081aaef7e742b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a0c3449ac530d68ba6081aaef7e742b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/8f966fb58a0c75a0003979440774083d/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/8f966fb58a0c75a0003979440774083d/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/ff37ae2ac19b6efe3e445a6bf07a0a20/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/ff37ae2ac19b6efe3e445a6bf07a0a20/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/fcf587bc22c83ac472427c76a0cd9df0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/fcf587bc22c83ac472427c76a0cd9df0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1b562f604196d62283da5e1bd06954ba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1b562f604196d62283da5e1bd06954ba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/takiacademy/.gradle/caches/transforms-3/6999acf82dc9f99ebdb243ca903cd198/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/takiacademy/.gradle/caches/transforms-3/6999acf82dc9f99ebdb243ca903cd198/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
-INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
+INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
+INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
+MERGED from [:common] /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/common/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:common] /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/common/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:common-ui] /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/common-ui/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:common-ui] /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/common-ui/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-permissions:0.31.2-alpha] /Users/takiacademy/.gradle/caches/transforms-3/8c68b45a031fed4f19f815ce92549ee3/transformed/accompanist-permissions-0.31.2-alpha/AndroidManifest.xml:21:5-23:42
+MERGED from [com.google.accompanist:accompanist-permissions:0.31.2-alpha] /Users/takiacademy/.gradle/caches/transforms-3/8c68b45a031fed4f19f815ce92549ee3/transformed/accompanist-permissions-0.31.2-alpha/AndroidManifest.xml:21:5-23:42
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/takiacademy/.gradle/caches/transforms-3/01000d750d82beca5dd333b2db4435cd/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/takiacademy/.gradle/caches/transforms-3/01000d750d82beca5dd333b2db4435cd/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/76a73ac6e4cc841b1363ace1845e4b94/transformed/coil-compose-2.3.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/76a73ac6e4cc841b1363ace1845e4b94/transformed/coil-compose-2.3.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/f3212eb58cf7096a3db0a86d19faa70c/transformed/coil-compose-base-2.3.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/f3212eb58cf7096a3db0a86d19faa70c/transformed/coil-compose-base-2.3.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/dc9ee7ec6434dfeb17ad283cb82d93d4/transformed/coil-2.3.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/dc9ee7ec6434dfeb17ad283cb82d93d4/transformed/coil-2.3.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ec42c53a166637f80b0504a97d474d5e/transformed/coil-base-2.3.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ec42c53a166637f80b0504a97d474d5e/transformed/coil-base-2.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/takiacademy/.gradle/caches/transforms-3/b017704067e6009029c315c88f468e5d/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/takiacademy/.gradle/caches/transforms-3/b017704067e6009029c315c88f468e5d/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.0] /Users/takiacademy/.gradle/caches/transforms-3/a36f7a6d2d436e931ff7d2a2d6359078/transformed/koin-androidx-compose-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.0] /Users/takiacademy/.gradle/caches/transforms-3/a36f7a6d2d436e931ff7d2a2d6359078/transformed/koin-androidx-compose-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.3.1] /Users/takiacademy/.gradle/caches/transforms-3/8dab25c5f281468a77082b17da912244/transformed/koin-android-3.3.1/AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-android:3.3.1] /Users/takiacademy/.gradle/caches/transforms-3/8dab25c5f281468a77082b17da912244/transformed/koin-android-3.3.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/takiacademy/.gradle/caches/transforms-3/eb4cdd3df1cd52e5a1404020b6f541bd/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/takiacademy/.gradle/caches/transforms-3/eb4cdd3df1cd52e5a1404020b6f541bd/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.2.0-alpha01] /Users/takiacademy/.gradle/caches/transforms-3/e5a5b5a61c11777743e2dc986ea00a5a/transformed/material3-1.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.2.0-alpha01] /Users/takiacademy/.gradle/caches/transforms-3/e5a5b5a61c11777743e2dc986ea00a5a/transformed/material3-1.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/66879b4720101e5aab00e86ae7ba24b1/transformed/material-ripple-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/66879b4720101e5aab00e86ae7ba24b1/transformed/material-ripple-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/65e5cff9baf5d84f3d91be2f89536730/transformed/material-icons-core-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/65e5cff9baf5d84f3d91be2f89536730/transformed/material-icons-core-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/43e5a112b3a350783f310528412d079c/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/43e5a112b3a350783f310528412d079c/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/567e54d178d4425fd42b751b6fa9d3ed/transformed/animation-core-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/567e54d178d4425fd42b751b6fa9d3ed/transformed/animation-core-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/74c91f6a5be5b9e7840ea076af01fd73/transformed/animation-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/74c91f6a5be5b9e7840ea076af01fd73/transformed/animation-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/cf10ed1c484167581054b959afaa3d9b/transformed/foundation-layout-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/cf10ed1c484167581054b959afaa3d9b/transformed/foundation-layout-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/d067a942a1a4723f00ecddf715b213d0/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/d067a942a1a4723f00ecddf715b213d0/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/52d9065310fe5861f443a9c9ba97edf6/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/52d9065310fe5861f443a9c9ba97edf6/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.3] /Users/takiacademy/.gradle/caches/transforms-3/44cb24c8140938387cdd91f9741517f3/transformed/fragment-ktx-1.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.3] /Users/takiacademy/.gradle/caches/transforms-3/44cb24c8140938387cdd91f9741517f3/transformed/fragment-ktx-1.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/8c79ef8fa583afbb65588eae2be6904c/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/8c79ef8fa583afbb65588eae2be6904c/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.5.3] /Users/takiacademy/.gradle/caches/transforms-3/61b39684c4d9738785dc5970c2f543d5/transformed/fragment-1.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.3] /Users/takiacademy/.gradle/caches/transforms-3/61b39684c4d9738785dc5970c2f543d5/transformed/fragment-1.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/089c090044c3610bf85cfbf97d5d0ffb/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/089c090044c3610bf85cfbf97d5d0ffb/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/7eccf9138c88a97076d45434e28caf27/transformed/activity-compose-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] /Users/takiacademy/.gradle/caches/transforms-3/7eccf9138c88a97076d45434e28caf27/transformed/activity-compose-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/12ef7ac4bd423d49f7e9712ca1543bf5/transformed/emoji2-views-helper-1.4.0-beta03/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/12ef7ac4bd423d49f7e9712ca1543bf5/transformed/emoji2-views-helper-1.4.0-beta03/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:21:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/a23722d67f0c2be90af69f8bf7a25291/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/a23722d67f0c2be90af69f8bf7a25291/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/6dfe2a8a635ea5e8a64ef521108c863f/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/6dfe2a8a635ea5e8a64ef521108c863f/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/60716aaf2ff7ec288c652e5f0c211152/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/60716aaf2ff7ec288c652e5f0c211152/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/dee72f90d1071d0428a4d7c8f2efcc2c/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/dee72f90d1071d0428a4d7c8f2efcc2c/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/f8d61080fa389dc5844d1421a5ea0311/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/takiacademy/.gradle/caches/transforms-3/f8d61080fa389dc5844d1421a5ea0311/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/e3f16a49b2ab5e6354e8440996556059/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/e3f16a49b2ab5e6354e8440996556059/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/cbfbecebd703dc2aa61f39c78e02c929/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/cbfbecebd703dc2aa61f39c78e02c929/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/db515429f139a3d3c75398282b7fcb81/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/db515429f139a3d3c75398282b7fcb81/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/7a95b4c59c40f1697730a0286dddfe1a/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/7a95b4c59c40f1697730a0286dddfe1a/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/1b20815887d87ee57d7e87455900f761/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/1b20815887d87ee57d7e87455900f761/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/5fbf2547a21ef6eb2c5b0f8faf83d681/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/5fbf2547a21ef6eb2c5b0f8faf83d681/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/404b790e67e89d0be2b8943fd9aeb517/transformed/ui-tooling-preview-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/404b790e67e89d0be2b8943fd9aeb517/transformed/ui-tooling-preview-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/1bc71f314b7ea5f41b2da3a502fcd7b6/transformed/ui-tooling-data-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/1bc71f314b7ea5f41b2da3a502fcd7b6/transformed/ui-tooling-data-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/13ae402d31a94151f9091296dd9077b9/transformed/ui-unit-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/13ae402d31a94151f9091296dd9077b9/transformed/ui-unit-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/1e7054b640a8293b6389b3dc7720689a/transformed/ui-util-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/1e7054b640a8293b6389b3dc7720689a/transformed/ui-util-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/44905f87ade005f933590f6dc2927ce9/transformed/ui-geometry-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/44905f87ade005f933590f6dc2927ce9/transformed/ui-geometry-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/7267794cc18e9c64769d5e3a4f05ce48/transformed/ui-graphics-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/7267794cc18e9c64769d5e3a4f05ce48/transformed/ui-graphics-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.30.0] /Users/takiacademy/.gradle/caches/transforms-3/942fb00b40e5b70cf3c60261f78acfb6/transformed/accompanist-drawablepainter-0.30.0/AndroidManifest.xml:21:5-23:42
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.30.0] /Users/takiacademy/.gradle/caches/transforms-3/942fb00b40e5b70cf3c60261f78acfb6/transformed/accompanist-drawablepainter-0.30.0/AndroidManifest.xml:21:5-23:42
+MERGED from [androidx.compose.ui:ui:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/8876e2147beb8ae4817c08275e4e2818/transformed/ui-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/8876e2147beb8ae4817c08275e4e2818/transformed/ui-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/4d0077019e32cefd66a43983649a0db9/transformed/foundation-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/4d0077019e32cefd66a43983649a0db9/transformed/foundation-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/ec6b1b930870328c6cc1cd5718935114/transformed/ui-text-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/ec6b1b930870328c6cc1cd5718935114/transformed/ui-text-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/e77415e4c2299aacadc629b2e7be3615/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/e77415e4c2299aacadc629b2e7be3615/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/91ea5a1668b7c83464f884f92d2ee609/transformed/material-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/91ea5a1668b7c83464f884f92d2ee609/transformed/material-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/645571206823375375678c599684d75e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/645571206823375375678c599684d75e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/takiacademy/.gradle/caches/transforms-3/68a78d6320f5f06ff2d748796fa88546/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/takiacademy/.gradle/caches/transforms-3/68a78d6320f5f06ff2d748796fa88546/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/takiacademy/.gradle/caches/transforms-3/7b9caf92ee0ad0806f63a7f7d17812fb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/takiacademy/.gradle/caches/transforms-3/7b9caf92ee0ad0806f63a7f7d17812fb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/0dfeb08fb37c6013e55763de7d9c8151/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/0dfeb08fb37c6013e55763de7d9c8151/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/ba0b383112c3fbb5acb2bdf913f7f1a9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/ba0b383112c3fbb5acb2bdf913f7f1a9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/fdd1f564964572fe4f4a499df76621f6/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/fdd1f564964572fe4f4a499df76621f6/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/5ae60ab41b3b18487f23601d77f293df/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/5ae60ab41b3b18487f23601d77f293df/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/4139d9bc90a3313ec1460e7a7e9a154d/transformed/core-ktx-1.11.0-alpha04/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/4139d9bc90a3313ec1460e7a7e9a154d/transformed/core-ktx-1.11.0-alpha04/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/1dca5ec0cf239103c0fe9b842af0e1ed/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/1dca5ec0cf239103c0fe9b842af0e1ed/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/takiacademy/.gradle/caches/transforms-3/d3887a9e5e5f9408a3cd6aa014df7568/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/takiacademy/.gradle/caches/transforms-3/d3887a9e5e5f9408a3cd6aa014df7568/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/takiacademy/.gradle/caches/transforms-3/0fba4a13acdb7eb21717370782a8959b/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/takiacademy/.gradle/caches/transforms-3/0fba4a13acdb7eb21717370782a8959b/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/7848224d8917c95ab5c98a460f566d97/transformed/runtime-saveable-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/7848224d8917c95ab5c98a460f566d97/transformed/runtime-saveable-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/f9f40adf6bd229599bcf538fcf2699a8/transformed/runtime-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/f9f40adf6bd229599bcf538fcf2699a8/transformed/runtime-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [app.cash.sqldelight:android-driver:2.0.0-alpha05] /Users/takiacademy/.gradle/caches/transforms-3/b380f8af9e19a00b1ebb0b6cc6a37733/transformed/android-driver-2.0.0-alpha05-debug/AndroidManifest.xml:5:5-44
+MERGED from [app.cash.sqldelight:android-driver:2.0.0-alpha05] /Users/takiacademy/.gradle/caches/transforms-3/b380f8af9e19a00b1ebb0b6cc6a37733/transformed/android-driver-2.0.0-alpha05-debug/AndroidManifest.xml:5:5-44
+MERGED from [io.github.aakira:napier-android-debug:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/64b2358e3d0250c10e509d539247ebf3/transformed/napier-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [io.github.aakira:napier-android-debug:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/64b2358e3d0250c10e509d539247ebf3/transformed/napier-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:21:5-23:41
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:21:5-23:41
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/2d3220fd5a84aada07e543d3eb519cb3/transformed/multiplatform-settings-debug/AndroidManifest.xml:20:5-22:41
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/2d3220fd5a84aada07e543d3eb519cb3/transformed/multiplatform-settings-debug/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/f9ac2f5058bdbb8ce7044862a205fdb9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/f9ac2f5058bdbb8ce7044862a205fdb9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/8ea6bc8c1d2079fd59027d5eb33e2765/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/8ea6bc8c1d2079fd59027d5eb33e2765/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/c3318ba88aa1b0e47d94a0641be76b57/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/c3318ba88aa1b0e47d94a0641be76b57/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/57b132d81865ef9cb8322d4afee6e329/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/57b132d81865ef9cb8322d4afee6e329/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a692d8ce9e2f8f29874399c866f8364/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a692d8ce9e2f8f29874399c866f8364/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/1fbdbdde2c8c85ad5ed07f62a1c1e9aa/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/1fbdbdde2c8c85ad5ed07f62a1c1e9aa/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/34dec309e0297768e6b32303af4268e7/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/takiacademy/.gradle/caches/transforms-3/34dec309e0297768e6b32303af4268e7/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/c04e6fdea011f61aaf0132d21637f168/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/c04e6fdea011f61aaf0132d21637f168/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/228bf597a02eb9a642ac0ba77c8b534d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/228bf597a02eb9a642ac0ba77c8b534d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/takiacademy/.gradle/caches/transforms-3/cdd2fb7c31b6ad2b05f28733bfa24d0d/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/takiacademy/.gradle/caches/transforms-3/cdd2fb7c31b6ad2b05f28733bfa24d0d/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
+INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
 	tools:ignore
-		ADDED from [com.google.accompanist:accompanist-permissions:0.31.2-alpha] /Users/takiacademy/.gradle/caches/transforms-3/57fc03cbe796705e310d44f79fcc3732/transformed/accompanist-permissions-0.31.2-alpha/AndroidManifest.xml:23:9-39
+		ADDED from [com.google.accompanist:accompanist-permissions:0.31.2-alpha] /Users/takiacademy/.gradle/caches/transforms-3/8c68b45a031fed4f19f815ce92549ee3/transformed/accompanist-permissions-0.31.2-alpha/AndroidManifest.xml:23:9-39
 	android:minSdkVersion
-		INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
-		ADDED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
+		ADDED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
-MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:26:9-34:20
-MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a0c3449ac530d68ba6081aaef7e742b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a0c3449ac530d68ba6081aaef7e742b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:26:9-34:20
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a692d8ce9e2f8f29874399c866f8364/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/takiacademy/.gradle/caches/transforms-3/1a692d8ce9e2f8f29874399c866f8364/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:30:17-75
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
 activity#androidx.compose.ui.tooling.PreviewActivity
-ADDED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dde5a7c38749e257608fc09eb36fe667/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:23:9-25:39
+ADDED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/e77415e4c2299aacadc629b2e7be3615/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:23:9-25:39
 	android:exported
-		ADDED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dde5a7c38749e257608fc09eb36fe667/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:25:13-36
+		ADDED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/e77415e4c2299aacadc629b2e7be3615/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dde5a7c38749e257608fc09eb36fe667/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:24:13-71
+		ADDED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/e77415e4c2299aacadc629b2e7be3615/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:24:13-71
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:23:9-81
-permission#com.lissene_kids.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:22:5-24:47
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:23:9-81
+permission#com.kmm_stater.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:22-94
-uses-permission#com.lissene_kids.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:5-97
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:22-94
+uses-permission#com.kmm_stater.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:22-94
 meta-data#com.russhwolf.settings.SettingsInitializer
-ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:31:13-33:52
+ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:31:13-33:52
 	android:value
-		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:33:17-49
+		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:33:17-49
 	android:name
-		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:32:17-74
+		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:32:17-74
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

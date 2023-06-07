@@ -1,152 +1,153 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.lissene_kids.app.android"
+3    package="com.kmm_stater.app.android"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="28"
-8-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
+8-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml
+9-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml
 10
 11    <!-- Permission declarations -->
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:5:5-67
-12-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:5:22-64
+12-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:5:5-67
+12-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:5:22-64
 13    <uses-permission android:name="android.permission.CAMERA" />
-13-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:6:5-65
-13-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:6:22-62
+13-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:6:5-65
+13-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:6:22-62
 14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-14-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:7:5-71
-14-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:7:22-68
+14-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:7:5-71
+14-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:7:22-68
 15
 16    <!-- A camera with burst capability is required to use this application -->
 17    <uses-feature android:name="android.hardware.camera.any" />
-17-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:10:5-64
-17-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:10:19-61
+17-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:10:5-64
+17-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:10:19-61
 18
 19    <permission
-19-->[androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:22:5-24:47
-20        android:name="com.lissene_kids.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-20-->[androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:23:9-81
+19-->[androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:22:5-24:47
+20        android:name="com.kmm_stater.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+20-->[androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:23:9-81
 21        android:protectionLevel="signature" />
-21-->[androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:24:9-44
+21-->[androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:24:9-44
 22
-23    <uses-permission android:name="com.lissene_kids.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-23-->[androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:5-97
-23-->[androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:22-94
+23    <uses-permission android:name="com.kmm_stater.app.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+23-->[androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:5-97
+23-->[androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:22-94
 24
 25    <application
-25-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:12:5-27:19
+25-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:12:5-27:19
 26        android:allowBackup="false"
-26-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:13:9-36
+26-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:13:9-36
 27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-27-->[androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/df4471b14188265c0c2f4e67ef3faf3b/transformed/core-1.11.0-alpha04/AndroidManifest.xml:28:18-86
+27-->[androidx.core:core:1.11.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/d29ac6b73c60d1186545300c08a9d3a8/transformed/core-1.11.0-alpha04/AndroidManifest.xml:28:18-86
 28        android:debuggable="true"
 29        android:extractNativeLibs="false"
 30        android:screenOrientation="portrait"
-30-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:16:9-45
+30-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:16:9-45
 31        android:supportsRtl="true"
-31-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:14:9-35
-32        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-32-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:15:9-65
-33        <activity
-33-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:18:9-26:20
-34            android:name="com.lissene_kids.app.android.MainActivity"
-34-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:19:13-41
-35            android:exported="true" >
-35-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:20:13-36
-36            <intent-filter>
-36-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:22:13-25:29
-37                <action android:name="android.intent.action.MAIN" />
-37-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:23:17-68
-37-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:23:25-66
-38
-39                <category android:name="android.intent.category.LAUNCHER" />
-39-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:24:17-76
-39-->/Users/takiacademy/IdeaProjects/lissene-kids/android/src/main/AndroidManifest.xml:24:27-74
-40            </intent-filter>
-41        </activity>
-42
-43        <provider
-43-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:24:9-32:20
-44            android:name="androidx.startup.InitializationProvider"
-44-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:25:13-67
-45            android:authorities="com.lissene_kids.app.android.androidx-startup"
-45-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:26:13-68
-46            android:exported="false" >
-46-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:27:13-37
-47            <meta-data
-47-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:29:13-31:52
-48                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-48-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:30:17-75
-49                android:value="androidx.startup" />
-49-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/56823037b9b5a4b34962207f71c2950a/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:31:17-49
-50            <meta-data
-50-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
-51                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-51-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
-52                android:value="androidx.startup" />
-52-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/898404e1945ac99dbf458a4d6e216c32/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
-53            <meta-data
-53-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:31:13-33:52
-54                android:name="com.russhwolf.settings.SettingsInitializer"
-54-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:32:17-74
-55                android:value="androidx.startup" />
-55-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/04dccc8069611bae01aaf4a0aa755674/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:33:17-49
-56            <meta-data
-56-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
-57                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-57-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
-58                android:value="androidx.startup" />
-58-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
-59        </provider>
-60
-61        <activity
-61-->[androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dde5a7c38749e257608fc09eb36fe667/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:23:9-25:39
-62            android:name="androidx.compose.ui.tooling.PreviewActivity"
-62-->[androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dde5a7c38749e257608fc09eb36fe667/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:24:13-71
-63            android:exported="true" />
-63-->[androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/dde5a7c38749e257608fc09eb36fe667/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:25:13-36
-64
-65        <receiver
-65-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
-66            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-66-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
-67            android:directBootAware="false"
-67-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
-68            android:enabled="true"
-68-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
-69            android:exported="true"
-69-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
-70            android:permission="android.permission.DUMP" >
-70-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
-71            <intent-filter>
-71-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
-72                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-72-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
-72-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
-73            </intent-filter>
-74            <intent-filter>
-74-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
-75                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-75-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
-75-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
-76            </intent-filter>
-77            <intent-filter>
-77-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
-78                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-78-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
-78-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
-79            </intent-filter>
-80            <intent-filter>
-80-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
-81                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-81-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
-81-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/ea6a314f0d1223b9d77a3d7fe89f8444/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
-82            </intent-filter>
-83        </receiver>
-84    </application>
-85
-86</manifest>
+31-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:14:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+33-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:15:9-65
+34        <activity
+34-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:18:9-26:20
+35            android:name="com.kmm_stater.app.android.MainActivity"
+35-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:19:13-67
+36            android:exported="true" >
+36-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:20:13-36
+37            <intent-filter>
+37-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:22:13-25:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:23:17-68
+38-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:23:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:24:17-76
+40-->/Users/takiacademy/IdeaProjects/Kotlin_MultiPlatform_Mobile_Starter/android/src/main/AndroidManifest.xml:24:27-74
+41            </intent-filter>
+42        </activity>
+43
+44        <provider
+44-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:24:9-32:20
+45            android:name="androidx.startup.InitializationProvider"
+45-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:25:13-67
+46            android:authorities="com.kmm_stater.app.android.androidx-startup"
+46-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:26:13-68
+47            android:exported="false" >
+47-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:27:13-37
+48            <meta-data
+48-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:29:13-31:52
+49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+49-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:30:17-75
+50                android:value="androidx.startup" />
+50-->[androidx.emoji2:emoji2:1.4.0-beta03] /Users/takiacademy/.gradle/caches/transforms-3/4729ce0fc919857d5204d1e0f4e44d93/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:31:17-49
+51            <meta-data
+51-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+52-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+53                android:value="androidx.startup" />
+53-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/takiacademy/.gradle/caches/transforms-3/4624528b14a9e9e32c6c3c868e51b9bc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+54            <meta-data
+54-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:31:13-33:52
+55                android:name="com.russhwolf.settings.SettingsInitializer"
+55-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:32:17-74
+56                android:value="androidx.startup" />
+56-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:1.0.0] /Users/takiacademy/.gradle/caches/transforms-3/61650a2d4539e5adab81044900c8cdab/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:33:17-49
+57            <meta-data
+57-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+58                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+58-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+59                android:value="androidx.startup" />
+59-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+60        </provider>
+61
+62        <activity
+62-->[androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/e77415e4c2299aacadc629b2e7be3615/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:23:9-25:39
+63            android:name="androidx.compose.ui.tooling.PreviewActivity"
+63-->[androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/e77415e4c2299aacadc629b2e7be3615/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:24:13-71
+64            android:exported="true" />
+64-->[androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/takiacademy/.gradle/caches/transforms-3/e77415e4c2299aacadc629b2e7be3615/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:25:13-36
+65
+66        <receiver
+66-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+67            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+67-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+68            android:directBootAware="false"
+68-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+69            android:enabled="true"
+69-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+70            android:exported="true"
+70-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+71            android:permission="android.permission.DUMP" >
+71-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+72            <intent-filter>
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+73                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+73-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+73-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+74            </intent-filter>
+75            <intent-filter>
+75-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+76                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+77            </intent-filter>
+78            <intent-filter>
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+79                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+80            </intent-filter>
+81            <intent-filter>
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+82                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/takiacademy/.gradle/caches/transforms-3/082a5e6219cd1808eeb6f948737e8b72/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+83            </intent-filter>
+84        </receiver>
+85    </application>
+86
+87</manifest>

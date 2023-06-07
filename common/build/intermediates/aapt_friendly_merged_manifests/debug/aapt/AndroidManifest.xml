@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.lissene_kids.app.common" >
+    package="com.kmm_stater.app.common" >
 
     <uses-sdk android:minSdkVersion="28" />
 

@@ -5,14 +5,14 @@ plugins {
 }
 
 android {
-    namespace = "com.lissene_kids.app.android"
+    namespace = "com.kmm_stater.app.android"
     compileSdk = (findProperty("android.compileSdk") as String).toInt()
 
     defaultConfig {
         minSdk = (findProperty("android.minSdk") as String).toInt()
         targetSdk = (findProperty("android.targetSdk") as String).toInt()
 
-        applicationId = "com.lissene_kids.app.android"
+        applicationId = "com.kmm_stater.app.android"
         versionCode = 1
         versionName = "1.0"
     }

@@ -1,4 +1,4 @@
-rootProject.name = "lissene_kids"
+rootProject.name = "kmm_stater"
 
 include(
     ":android",

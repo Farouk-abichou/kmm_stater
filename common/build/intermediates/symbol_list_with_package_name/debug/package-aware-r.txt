@@ -1,1 +1,1 @@
-com.lissene_kids.app.common
+com.kmm_stater.app.common

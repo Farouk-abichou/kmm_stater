@@ -108,7 +108,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.lissene_kids.app.common.ui"
+    namespace = "com.kmm_stater.app.common.ui"
     compileSdk = (findProperty("android.compileSdk") as String).toInt()
 
     defaultConfig {
