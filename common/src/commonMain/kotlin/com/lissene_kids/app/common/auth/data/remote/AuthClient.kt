@@ -4,7 +4,7 @@ import com.lissene_kids.app.common.auth.data.local.tokenSettings
 import com.lissene_kids.app.common.auth.data.remote.response.LogInResponse
 import com.lissene_kids.app.common.auth.data.remote.response.SignupResponse
 import com.lissene_kids.app.common.auth.domain.model.SignupInput
-import com.lissene_kids.app.common.auth.domain.model.Token
+import com.lissene_kids.app.common.auth.data.remote.response.Token
 import com.lissene_kids.app.common.core.network.util.LoginUrl
 import com.lissene_kids.app.common.core.network.util.RefreshUrl
 import com.lissene_kids.app.common.core.network.util.SignupUrl

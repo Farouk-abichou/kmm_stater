@@ -1,6 +1,5 @@
 package com.lissene_kids.app.common.auth.data.remote.response
 
-import com.lissene_kids.app.common.auth.domain.model.Token
 import kotlinx.serialization.Serializable
 
 @Serializable

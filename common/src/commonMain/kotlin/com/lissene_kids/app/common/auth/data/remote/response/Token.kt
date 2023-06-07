@@ -1,4 +1,4 @@
-package com.lissene_kids.app.common.auth.domain.model
+package com.lissene_kids.app.common.auth.data.remote.response
 
 import kotlinx.serialization.SerialName
 

@@ -2,7 +2,7 @@ package com.lissene_kids.app.common.auth.domain.repository
 
 import com.lissene_kids.app.common.auth.data.remote.response.SignupResponse
 import com.lissene_kids.app.common.auth.domain.model.SignupInput
-import com.lissene_kids.app.common.auth.domain.model.Token
+import com.lissene_kids.app.common.auth.data.remote.response.Token
 
 interface AuthRepository {
 
